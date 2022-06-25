@@ -1,0 +1,24 @@
+{
+  "Todos": [
+    {
+      "title": "shahrukh khan",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "salu don",
+      "status": true,
+      "id": 2
+    },
+    {
+      "title": "ullu",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "sweel",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
